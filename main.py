@@ -13,7 +13,7 @@ def digitaltime():
     label.after(2000, digitaltime())
 
 
-label = Label(base, font=("ds_digital",70),background = "yellow", foreground = "yellow")
+label = Label(base, font=("ds_digital",70),background = "green", foreground = "yellow")
 label.pack(anchor='center')
 
 digitaltime()
