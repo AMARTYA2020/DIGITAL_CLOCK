@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import *     #GUI
 from tkinter.ttk import *
 from time import strftime
 
