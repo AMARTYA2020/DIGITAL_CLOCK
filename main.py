@@ -16,5 +16,5 @@ def digitaltime():
 label = Label(base, font=("ds_digital",70),background = "green", foreground = "yellow")
 label.pack(anchor='center')
 
-digitaltime()
+digitaltime() #main function calling
 
