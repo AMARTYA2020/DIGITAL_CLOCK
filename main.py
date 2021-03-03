@@ -1,4 +1,4 @@
-from tkinter import *     #GUI
+from tkinter import *
 from tkinter.ttk import *
 from time import strftime
 
@@ -24,5 +24,5 @@ label = Label(base, font=("ds_digital", 50), background="green", foreground="yel
 label.pack(anchor='center')
 
 digitaltime()
-base.deiconify()
+base.after(100, base.deiconify)
 base.mainloop()
