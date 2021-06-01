@@ -1,4 +1,4 @@
-# DIGITAL_CLOCK Grap
+# DIGITAL_CLOCK Graphical
 
 
 
