@@ -1,4 +1,4 @@
-# DIGITAL_CLOCK G
+# DIGITAL_CLOCK Gr
 
 
 
