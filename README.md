@@ -1,4 +1,4 @@
-# DIGITAL_CLOCK Graphical User
+# DIGITAL_CLOCK Graphical User Interface
 
 
 
