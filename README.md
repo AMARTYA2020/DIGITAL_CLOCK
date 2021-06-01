@@ -1,4 +1,4 @@
-# DIGITAL_CLOCK Graphical
+# DIGITAL_CLOCK Graphical User
 
 
 
